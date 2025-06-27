@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **BTech CSE** student at **KIIT University**
+- 🎓 Final-year **BTech CSE** student at **KIIT University, Bhubaneswar**
 - 💡 Interested in UI/UX, real-time apps, and mobile performance
 - 🚀 On a mission to build user-centric, scalable Android applications
 - ✨ Fun fact: I love solving real-world problems with minimalistic design
@@ -37,14 +37,14 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/adarsh_abhishek_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/adarsh-abhishek-339485272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/adarshabhisk/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/adarsh_abhishek_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
